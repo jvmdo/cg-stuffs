@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1568602889 source:c:\users\joutv\documents\estudos\processamento digital de imagens\reflection01-opengl\main.c
+	<windows.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdio.h>
+
+1568603009 source:c:\users\joutv\documents\estudos\processamento digital de imagens\reflection01-opengl\triangle.c
+	<windows.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdio.h>
+

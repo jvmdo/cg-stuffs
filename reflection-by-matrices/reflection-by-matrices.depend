@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1573442722 source:c:\users\joutv\documents\estudos\processamento digital de imagens\reflection-by-matrices\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	<math.h>
+
+1573442722 source:c:\users\joutv\documents\estudos\processamento digital de imagens\computa«√o gr¡fica\reflection-by-matrices\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	<math.h>
+
